@@ -19,7 +19,7 @@ Areeba Ahmed
 
 
 <button onclick="window.location.href='http://127.0.0.1:4100/areeba_2025/snowboarding/'">Snowboarding</button>
-
+<p> Some more info about me and snowboarding </p>
 
 <p> Links </p>
   <a href="https://www.w3schools.com/html/default.asp" style="display: block; margin-bottom: 10px;">w3schools</a>
