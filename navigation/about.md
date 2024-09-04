@@ -13,6 +13,7 @@ My name is Areeba Ahmed and I am a sophomore at Del Norte High. I'm 15 years old
 * I took CSSE in 9th grade
 * I like to snowboard
 * I have one older brother in 11th grade and one older sister in college
+* I like cats
 
 
 
