@@ -27,3 +27,5 @@ Areeba Ahmed
   <a href="https://github.com/areeba-ahmed/areeba_2025" style="display: block;">GitHub Page</a>
 </div>
 
+
+<img src="images/snowboard.png" alt="Snowboarding">
